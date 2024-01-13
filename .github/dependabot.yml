@@ -5,7 +5,7 @@ updates:
         schedule:
             interval: "weekly"
             interval: "daily"
-            time: "22:27"
+            time: "22:46"
             timezone: "Asia/Kolkata"
         # Allow up to 10 open pull requests for pip dependencies
         open-pull-requests-limit: 1
